@@ -1,5 +1,5 @@
 ---
-title: "How to Contribute"
+title: "Как How to Contribute"
 description: ""
 tags: [
     "go",
