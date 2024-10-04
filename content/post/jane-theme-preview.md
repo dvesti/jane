@@ -1,5 +1,5 @@
 ---
-title: "Jane Theme Preview"
+title: "Jane Theme Preview -- Превью"
 date: 2018-01-01T16:01:23+08:00
 lastmod: 2018-03-07T16:01:23+08:00
 draft: false

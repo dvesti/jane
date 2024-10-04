@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:4321/jane/sitemap.xml
+Sitemap: https://dvesti.github.io/jane/sitemap.xml

@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jane - A super concise theme for Hugo</title>
-    <link>http://localhost:4321/jane/categories/</link>
+    <link>https://dvesti.github.io/jane/categories/</link>
     <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>me@example.com (Jane)</managingEditor>
     <webMaster>me@example.com (Jane)</webMaster>
     <lastBuildDate>Fri, 20 Sep 2024 16:01:23 +0800</lastBuildDate>
-    <atom:link href="http://localhost:4321/jane/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dvesti.github.io/jane/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>http://localhost:4321/jane/categories/docs/</link>
+      <link>https://dvesti.github.io/jane/categories/docs/</link>
       <pubDate>Fri, 20 Sep 2024 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://localhost:4321/jane/categories/docs/</guid>
+      <guid>https://dvesti.github.io/jane/categories/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>http://localhost:4321/jane/categories/index/</link>
+      <link>https://dvesti.github.io/jane/categories/index/</link>
       <pubDate>Fri, 20 Sep 2024 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://localhost:4321/jane/categories/index/</guid>
+      <guid>https://dvesti.github.io/jane/categories/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:4321/jane/categories/shortcodes/</link>
+      <link>https://dvesti.github.io/jane/categories/shortcodes/</link>
       <pubDate>Fri, 20 Sep 2024 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://localhost:4321/jane/categories/shortcodes/</guid>
+      <guid>https://dvesti.github.io/jane/categories/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>http://localhost:4321/jane/categories/development/</link>
+      <link>https://dvesti.github.io/jane/categories/development/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://localhost:4321/jane/categories/development/</guid>
+      <guid>https://dvesti.github.io/jane/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>http://localhost:4321/jane/categories/golang/</link>
+      <link>https://dvesti.github.io/jane/categories/golang/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://localhost:4321/jane/categories/golang/</guid>
+      <guid>https://dvesti.github.io/jane/categories/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Demo</title>
-      <link>http://localhost:4321/jane/categories/demo/</link>
+      <link>https://dvesti.github.io/jane/categories/demo/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://localhost:4321/jane/categories/demo/</guid>
+      <guid>https://dvesti.github.io/jane/categories/demo/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>http://localhost:4321/jane/categories/math/</link>
+      <link>https://dvesti.github.io/jane/categories/math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://localhost:4321/jane/categories/math/</guid>
+      <guid>https://dvesti.github.io/jane/categories/math/</guid>
       <description></description>
     </item>
     <item>
       <title>English</title>
-      <link>http://localhost:4321/jane/categories/english/</link>
+      <link>https://dvesti.github.io/jane/categories/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://localhost:4321/jane/categories/english/</guid>
+      <guid>https://dvesti.github.io/jane/categories/english/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:4321/jane/categories/test/</link>
+      <link>https://dvesti.github.io/jane/categories/test/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://localhost:4321/jane/categories/test/</guid>
+      <guid>https://dvesti.github.io/jane/categories/test/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://localhost:4321/jane/categories/syntax-highlighting/</link>
+      <link>https://dvesti.github.io/jane/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate><author>me@example.com (Jane)</author>
-      <guid>http://localhost:4321/jane/categories/syntax-highlighting/</guid>
+      <guid>https://dvesti.github.io/jane/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
   </channel>
