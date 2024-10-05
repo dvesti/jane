@@ -8,7 +8,7 @@ categories: ["demo", "shortcodes", "index"]
 
 menu:
   main:
-    parent: "demo"
+    parent: "демо"
     weight: 1
 ---
 

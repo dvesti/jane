@@ -30,17 +30,17 @@ defaultContentLanguage = "en"           # Default language to use
   filename = "sitemap.xml"
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "This is Home"
+  name = "Главная"
   weight = 10
   identifier = "home"
   pageref = "/"
 [[menu.main]]
-  name = "Archives"
+  name = "Архив"
   weight = 20
   identifier = "archives"
   pageref = "/post/"
 [[menu.main]]
-  name = "Tags"
+  name = "Тэги"
   weight = 30
   identifier = "tags"
   pageref = "/tags/"
